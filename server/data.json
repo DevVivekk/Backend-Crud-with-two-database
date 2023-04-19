@@ -1,0 +1,52 @@
+[
+    {
+        "ProgramId":"1",
+        "ProgramName":"Arms Beginner",
+        "Exercises":{
+            "ExerciseId":"1",
+            "ExerciseName":"Push ups",
+            "ExerciseLength":"10 minutes"
+        }
+
+    },
+    {
+        "ProgramId":"2",
+        "ProgramName":"Arms Advanced",
+        "Exercises":{
+            "ExerciseId":"2",
+            "ExerciseName":"Diamond Pushups",
+            "ExerciseLength":"11 minutes"
+        }
+
+    },
+    {
+        "ProgramId":"3",
+        "ProgramName":"Abs Beginner",
+        "Exercises":{
+            "ExerciseId":"3",
+            "ExerciseName":"situps",
+            "ExerciseLength":"2 minutes"
+        }
+
+    },
+    {
+        "ProgramId":"4",
+        "ProgramName":"Abs Advanced",
+        "Exercises":{
+            "ExerciseId":"4",
+            "ExerciseName":"chinups",
+            "ExerciseLength":"3 minutes"
+        }
+
+    },
+    {
+        "ProgramId":"5",
+        "ProgramName":"Legs Beginner",
+        "Exercises":{
+            "ExerciseId":"5",
+            "ExerciseName":"Running",
+            "ExerciseLength":"30 minutes"
+        }
+
+    }
+]
